@@ -1,1 +1,1 @@
- My second readme
+ Getting along with my software engineering course
